@@ -1,0 +1,236 @@
+rKNSc8RrwxA AWS Tutorials - 1 - Introducing the AWS Playlist (AWS in Hindi)
+JuE9gKNs5sA AWS Tutorials - 2 - What is AWS - Traditional VS Cloud Computing - Why Cloud Computing
+zr48J9Xhaw4 AWS Tutorials - 3 - Cloud Computing Service Models | IAAS | PAAS | SAAS (in Hindi)
+OmfUnOYKxIg AWS Tutorials - 4 - Deployment Model of Clouds - Public Private and Hybrid Cloud ( In Hindi)
+NgI_Jkm7RRE AWS Tutorials - 5 - How Aws Charge - AWS pricing  (  Hindi )
+jRGW4uInhkE AWS Tutorials - 6 - What/Why is AWS region | AWS Region Map | AWSGlobal Infrastructure  (in Hindi)
+fH5828qH4_k AWS Tutorials - 7 - What/Why is AWS Availability Zones | AWS Global Infrastructure  ( AWS in Hindi )
+WF5XS6jOUZ0 AWS Tutorials - 8 - What/Why is Local Zones | Local Zones | AWS Global Infrastructure ( in Hindi )
+QDymcZ5xYow AWS Tutorials - 9 - Create AWS Account | Create AWS Free Tier Account ( in Hindi )
+f-T4xWUZWSk AWS Tutorials - 10 - Create First EC2 Instance | EC2 Instance Creation in AWS ( in Hindi )
+HPrq6kdsEZ0 AWS Tutorials - 11 - Access EC2 Instance From Windows Machine | EC2 Instance Connect ( in Hindi )
+8Vuvl4cvdv4 AWS Tutorials - 12 - Access EC2 Instance From Linux Machine | EC2 Instance Connect ( in Hindi )
+HaRki0xPPd4 AWS Tutorials - 13 - Install Nginx in EC2 Instance  | Deploy Sample Application In EC2  ( in Hindi )
+EXs775-J5zE AWS Tutorials - 14 - Bootstrap Script in EC2 Instance  | User Data In EC2  ( in Hindi )
+poAvpknMDwI AWS Tutorials - 15 - AWS Security Group | Security Group AWS ( in Hindi )
+nA96hTiakb8 AWS Tutorials - 16 - AWS EC2 Instance Type |  Instance Type in AWS ( in Hindi )
+wFf8Er1tz_0 AWS Tutorials - 17 - AWS Pricing | Reserve Instance | Spot Instance | Saving Plan | Dedicated Host
+CEyj_YGNvNM AWS Tutorials - 18 - Create Windows Instance In AWS | AWS tutorials | AWS Step By Step
+TEUAsbB9bwU AWS Tutorials - 19 - Access Windows Instance From Linux Machine | AWS tutorials | AWS Step By Step
+KP6XRtyVVX4 AWS Tutorials - 20 - Instance Metadata With UserData | AWS tutorials | AWS Step By Step
+5oZEJMZpZDs AWS Tutorials - 21 - Attach Elastic/Static IP to an EC2 Instance | AWS tutorials | AWS Step By Step
+Wgyp3yWRWTU AWS Tutorials - 22 - Detach Elastic/Static IP | Release EIP | AWS tutorials | AWS Step By Step
+9OpRBa0CNRw AWS Tutorials - 23 - Elastic Block Storage (EBS) | Instance Store | AWS Step By Step
+1eUU1SybgQg AWS Tutorials - 24 - Create First Elastic Block Storage Vol | Mount EBS in Linux | AWS Step By Step
+d6c6S_vICvs AWS Tutorials - 25 - Detach an EBS volume from one EC2 Instance and Attach it Another One
+JwEyueilFb4 AWS Tutorials - 26 - Resize EBS Volume and Resize the File System
+a2MTjl3KAdA AWS Tutorials - 27 - How to  Resize ROOT EBS Volume
+aFhwZ75aTKI AWS Tutorials - 28 - Attach One EBS Volume to Multiple EC2 Instance
+ZJ5V2cSfbpc AWS Tutorials - 29 - Type of EBS Volumes - Which EBS Volume should I use ?
+3Ys2SjowSts AWS Tutorials - 30 - Snapshot Overview  - AWS Snapshot - EBS Snapshot
+Fuzzr2HvBRk AWS Tutorials - 31 - Create First Snapshot - EBS Backup
+s3gMJU9Nc7U AWS Tutorials - 32 - Automate EBS Volume Backup - EBS Lifecycle Manager - EBS Backup
+x2T5egBIdQg AWS Tutorials - 33 - Snapshot and AMI Recycle Bin - Recycle Bin for Snapshot and AMI AWS
+UJvKOo00xvU AWS Tutorials - 34 - Copy Snapshot From One Region to Another- Copy Snapshot Cross Region/Account
+0MltSofWHTs AWS Tutorials - 35 - Encrypt the EBS Volume - What will happen when we encrypt the EBS volume
+xGsAgxO9vyg AWS Tutorials - 36 - Delete EBS Snapshot - Cleanup Snapshot
+MVllpg49EQM AWS Tutorials - 37 - AWS AMI - Amazon Machine Image - Create your Own AMI
+ykiVl1F5bd8 AWS Tutorials - 38 - Share Your AMI with other AWS account - Delete Your AWS AMI
+tBhoVGT7a18 AWS Tutorials - 39 - Elastic Load Balancer in AWS (ELB) - Classic Load Balancer(CLB)
+tqiHn3zNo4U AWS Tutorials -40 - EC2 Instance Accessible by LoadBalancer Only | Access Webserver via LoadBalancer
+wOg4sWFZS98 AWS Tutorials - 41 - Delete Classic Load Balancer
+IUK7OXXVQFM AWS Tutorials - 42 - Application Load Balancer | Layer 7 Load Balancer
+rk-WLPjV09U AWS Tutorials - 43 - Path Base Routing in Application Load Balancer | Application Load Balancer
+h4nSFaCfR-w AWS Tutorials - 44 - How Get Client IP address on Application Server | Application Load Balancer
+qUfqpNb1SLA AWS Tutorials - 45 - Stickiness And Custom Page Routing in  Application Load Balancer
+eQi-BD9uyDI AWS Tutorials - 46 - Network Load Balancer | Layer 4 Load Balancer | AWS Tutorials
+jkK29xGhQZo AWS Tutorials - 46 - AWS Launch Template - Auto Scaling Group ( ASG ) - AWS (In Hindi)
+E2I4GT-AqHY AWS Tutorials - 47 - Auto Scaling in Action - How to Enable Automatic Scaling  - AWS (In Hindi)
+9XWuCyf5F4c AWS Tutorials - 48 - Auto Scaling With Load Balancer - Load Balancer with Auto Scaling - AWS (Hindi)
+Nbk6EGVzNL8 AWS Tutorials - 49 - Enable Termination Protection  - Hibernet vs PowerOff - AWS (Hindi)
+lcPkk8araGI AWS Tutorials - 50 - How to create Reserve Instace  - How to attach multiple NIC - AWS (Hindi)
+B1PpTEfVDw4 AWS Tutorials - 51 - AWS IAM Service -  Identity and Access Management - AWS (Hindi)
+3UAjLVGr-xg AWS Tutorials - 52 - AWS IAM Service -  Groups in AWS - AWS (Hindi)
+vVIgGvp1Xbg AWS Tutorials - 53 - AWS IAM Service -  Password Policy - AWS (Hindi)
+A2Bc5dOwx_c AWS Tutorials - 54 - AWS Multi Factor Authentication - AWS MFA - AWS (Hindi)
+nooY45x12Qw AWS Tutorials - 55 - How to use AWS CLI - AWS Configure - How to Create AWS Instance Using CLI - AWS
+tcQFWVcWBTY AWS Tutorials - 56 -  AWS CLI Handle Multiple AWS Accounts - How to use AWS CLI In Linux -AWS(Hindi)
+OaoHJ0mb2ZE AWS Tutorials - 57 -  What is AWS Roles & How to use AWS Cli without  Access Id and Secret key - AWS
+GdlAcq3Ek_s AWS Tutorials - 58 -  What/Why is CloudShell ||  IAM - Access Advisor || IAM -  Credential Report
+rrUA7jY_Cw8 AWS Tutorials - 59 - Introduction to Amazon Simple Storage Service (S3) | AWS S3 Service (in Hindi)
+MwFH65uTMXw AWS Tutorials - 60 How to Create Bucket in AWS | Create S3 Bucket | Create First Bucket ( in Hindi)
+sWOkwp4Kd_I AWS Tutorials - 61 Public your Bucket Object | Policy Generator | Allow Object to Public ( in Hindi)
+Y6infh4tL_Q AWS Tutorials - 62 S3 Object - S3 Object Properties - S3 Object Metadata - S3 Object Key ( in Hindi)
+nzEsMgAfo6U AWS Tutorials - 63 - S3 Versioning - What is Versioning - Prevent a Object from Deletion ( in Hindi)
+cm626PlpSn8 AWS Tutorials - 64 - Host Static Website in S3  -How to host Static Website in S3 ( in Hindi)
+nRqzzzG_yfw AWS Tutorials - 65 - How to Redirect in S3 Static Website From one to another ( in Hindi)
+x6jdfAAZwU8 AWS Tutorials - 66 - How to Change Prefix in Static Website S3 - Redirect S3 Prefix in S3 (in Hindi)
+hXJPWOK6NWI [Private video]
+ATU9wfCqoNU AWS Tutorials - 67 -  S3 Accelerated Transfer, How to Enable? How to  Use Accelerated Transfer?
+S2_Uuhl7768 AWS Tutorials - 68 -  Same/Cross Region Replication -  What is SRR/CRR - Use of SRR/CRR?
+qJZ8PukZ0gY AWS Tutorials - 69 -  AWS S3 - Configure Logging in S3 Bucket - How to Enable S3 Logging (In Hindi)
+KoKBhXhQe60 AWS Tutorials - 70 -  AWS S3 - Storage Classes - Standard - Infrequent - Glacier (In Hindi)
+XrwIhGqN_NI AWS Tutorials - 71 -  AWS S3 - Storage Classes - Configure Storage Class (In Hindi)
+jfKz1IAe7Ws AWS Tutorials - 72 - Simplify Data Lifecycle Management with AWS S3 - ( AWS In Hindi )
+2bVD29sC_lw AWS Tutorials - 73 - Cost Efficiency and Performance with AWS Intelligent Tiering for S3 ( In Hindi)
+5e4FlaHUPgY AWS Tutorials - 74 - What is CORS and How To Enable IT in S3 - ( AWS In Hindi )
+MQ9uPWq1TAk AWS Tutorials - 75 - What is Presigned URL in S3 - ( AWS In Hindi )
+0ikAN6d5ZZ0 AWS Tutorials - 76 - Securing Your AWS S3 Data: At Rest, Server-Side, and Client-Side Encryption
+AjlUFYnScBk AWS Tutorials - 77 - What is Cloudfront ? Create First Distribution with EC2 Instance
+vL1Eix6s_Pg AWS Tutorials - 78 - AWS CloudFront Invalidation - How to Remove Data From CloudFront Edge -In Hindi
+rtuoqTslXbU AWS Tutorials - 79 - How to make EC2/ALB Instance Accessible from CloudFront Only -In Hindi
+R-BiyXJumr8 AWS Tutorials - 80 - CloudFront with S3 - S3 Private Bucket with CloudFront -S3 Origin - In Hindi
+NI6d5d7ycvY AWS Tutorials - 81 - CloudFront Path Based routing with Mulitple Origin -  Behavior - In Hindi
+yRcC31-5s5M AWS Tutorials - 82 - CloudFront Custom Error Page -  CloudFront In Hindi - In Hindi
+a6Jhw1n55Mo AWS Tutorials - 83 - How to Control Access to Your Content Based on Country - CloudFront In Hindi
+zfj9nB1e20k AWS Tutorials - 84 - How to Disable CloudFront Distribution / How to Delete CloudFront Distribution
+Ji8oT2QI9Z8 AWS Tutorials - 85 - CloudFront Project Part - 1 - Setup Project Prerequisites - Deploy API Server
+lwo1YnFqyso AWS Tutorials - 86 - CloudFront Project Part - 2 - Cache Expire and Custom Header in Action
+czw19xdJnU8 AWS Tutorials - 87 - CloudFront Project Part - 3 - Cache Key In Action - Query Params in CloudFront
+N1KHVI_5s0o AWS Tutorials - 88 - AWS VPC (Virtual Private Cloud )- Create First VPC - In Hindi
+GETj1PdFVYs AWS Tutorials - 89 - AWS VPC (Virtual Private Cloud )- Create First Subnet - In Hindi
+5QrzHRwNWJg AWS Tutorials- 90-AWS VPC (Virtual Private Cloud)- Custom VPC and Subnet without IGW and Route Table
+AkQKC-3COl4 AWS Tutorials- 91-AWS VPC (Virtual Private Cloud)- Internet Gateway (IGW) and Route Table
+CPQlJBAhewk AWS Tutorials - 92 - AWS VPC (Virtual Private Cloud) - Public and Private Subnet
+KznYKBE1aig AWS Tutorials - 93- AWS VPC - How to Access Private Instance in AWS using bastion host
+_ySG_W5UinM AWS Tutorials - 94- AWS VPC - How to access internet in Private Instance - NAT Instance
+bSL-SMfjMJU AWS Tutorials - 95 - AWS VPC - How to Access Internet in Private Instance - NAT Gateway
+O9AQE57PMAE AWS Tutorials - 96 - AWS VPC - NACL - Network Access Control List - What is NACL in AWS ? NACL vs SG
+v76TrfEhqO4 AWS Tutorials - 97 - AWS VPC - NACL - Create Network Access Control List
+2p29eceT8yg AWS Tutorials - 98 - AWS VPC - Cleanup
+zU_8uNV7Mgs AWS Tutorials - 99 - AWS VPC - VPC Peering and It's related Questions
+aMeFBGSNtpw AWS Tutorials - 100 - AWS VPC - Transit Gateway and Transit Gateway Attachments
+6G3YdtZByNM AWS Tutorials - 101 - AWS VPC - Transit Gateway and Transit Gateway Attachments - Part -2 (In Hindi)
+_CRxj0VmrB8 AWS Tutorials - 102 - AWS VPC - Delete Transis Gateway - Clean up VPC
+5prSZdGcSQc AWS Tutorials - 103 - AWS VPC - VPC Flow Log - What is VPC Flow Log - AWS VPC Flow Logs
+xYX28OxSE_8 AWS Tutorials - 104 - What is VPC Endpoint - How to use VPC Endpoint - Gateway Endpoint
+9naqQEJRuic AWS Tutorials - 105 - What is VPC Interface Endpoint - How to use VPC Endpoint - Interface Endpoint
+MTEi0x5XcVw AWS Tutorials - 106 - What is Site to Site VPN in AWS - Virtual Private Gateway (In Hindi)
+WgJc5LiXuCw AWS Tutorials -107 -  Site to Site VPN in AWS - Virtual Private Gateway - Demo by @NetworkEvolution
+YCB6yL8VFgI AWS Tutorials - 108 -  Egress Only Internet Gateway in AWS - AWS in Hindi
+8gTFnNsgls8 AWS Tutorials - 109 -  Route53 - Overview - AWS Fully Managed DNS Service
+MfQrHeO-L8c AWS Tutorials - 110 -  Route53 - Register Your First Domain in Route53 - AWS  (in Hindi)
+wKQmYGe0BFw AWS Tutorials - 111 -  Route53 - A Name and AAAA Record in Action - AWS  (in Hindi)
+YctYXF63aZk AWS Tutorials - 112 -  Route53 - CName Record in Action - AWS  (in Hindi)
+dwEi2ZgHFw0 AWS Tutorials - 113 -  Route53 - Alias in Action - Alias vs CNAME - AWS  (in Hindi)
+Z3c7Sfe6XgY AWS Tutorials - 114 -  Route53 - TXT Record in Action - AWS  (in Hindi)
+hfa7deY4ezw AWS Tutorials - 115 -  Route53 - Create Health Check in Route53 - AWS  (in Hindi)
+AZbirXdGmI4 AWS Tutorials - 116 -  Route53 - Parent Health Check in Route53 in Action - AWS  (in Hindi)
+OSB52J4FnAA AWS Tutorials - 117 -  Route53 - Simple Routing Policy in Action - AWS  (in Hindi)
+0coIZfV4y4c AWS Tutorials - 118 -  Route53 - Weightage Routing Policy in Action - AWS  (in Hindi)
+a-GZWSI5HLE AWS Tutorials - 119 -  Route53 - Geolocation Routing Policy in Action - AWS  (in Hindi)
+DKlSaceTHRc AWS Tutorials - 120 -  Route53 - Latency Based Routing Policy in Action - AWS  (in Hindi)
+4hFS0wIQzL8 AWS Tutorials - 121 -  Route53 - Failover Routing Policy in Action - AWS  (in Hindi)
+Dwwd2YHr2Qs AWS Tutorials - 122 -  Route53 - Multivalue Answer Routing Policy in Action - AWS  (in Hindi)
+vOO9aTF1-Dg AWS Tutorials - 123 -  Route53 - IP Based Routing Policy in Action - AWS  (in Hindi)
+mv4nOW2UBJw AWS Tutorials - 124 -  Route53 - Cleanup - AWS  (in Hindi)
+U5ixJmjJNxM AWS Tutorials - 125 -  Route53 - Traffic Policy - AWS  (in Hindi)
+DO9Uv9eyVG4 AWS Tutorials - 126 -  Route53 - Logging - AWS  (in Hindi)
+lcj_GOE16U4 AWS Tutorials - 127 -  Route53 - DNS Firewall - Block Websites/ Allow Websites - AWS  (in Hindi)
+8T5B-VszRbQ AWS Tutorials - 128 - Route53 - Private Hosted Zone - AWS (in Hindi)
+1wa-qSlRiFE AWS Tutorials - 129 - Hybrid DNS - DNS Inbound EndPoints - AWS (in Hindi)
+lrGAd_PMIkY AWS Tutorials - 130 - Hybrid DNS - DNS Outbound EndPoints - AWS (in Hindi)
+v5Mz6SL4UP0 AWS Tutorials - 131 - Route53 - Cleanup - Delete Inbount and Outbound Endpoint - Delete Hosted Zone
+o98frpNl6cs AWS Tutorials - 132 - Amazon RDS - Amazon Relational Database Service - (In Hindi)
+syddeX5h1NM AWS Tutorials - 133 - Amazon RDS - Create First Database - (In Hindi)
+AcM8KQWR3S4 AWS Tutorials - 134 - Amazon RDS - Connect to RDS Instance - (In Hindi)
+G8bGuQ2vPZ0 AWS Tutorials - 135 - Amazon RDS - What is Read Replica - How to Create Read Replica - (In Hindi)
+MPglvFh-l7M AWS Tutorials - 136 - Amazon RDS - What is Multi AZ in RDS - (In Hindi)
+LETUsRKEgNA AWS Tutorials - 137 - Amazon RDS - What is Proxy in RDS - (In Hindi)
+xcOwOQgFvwQ AWS Tutorials - 138 - Amazon RDS - Delete RDS, ReadReplica and Proxy in RDS - (In Hindi)
+C27KFj051z4 AWS Tutorials - 139 - Amazon RDS - AWS Aurora Database - Create First Aurora Instance (In Hindi)
+D0rpISp9vVQ AWS Tutorials - 140 - Amazon RDS - Aurora Endpoints - Reader, Writer, Instance, Custom Endpoints
+DW78xSYuFKk AWS Tutorials - 141 - Amazon RDS - Aurora Endpoints - Read Replica
+ir319vFNWqU AWS Tutorials - 142 - Amazon RDS - Delete Aurora Database  - Delete Aurora Read Replica
+nF4KDYLRojw AWS Tutorials - 143 - Amazon RDS - Cross Region Read Replica - Promote Read Replica ( In Hindi )
+FdUC6d2yffg AWS Tutorials - 144 - Amazon RDS - Parameter Groups - How to change RDS Configurations ( In Hindi )
+PoJ2I2NAe34 AWS Tutorials - 144 - Amazon DynamoDB - How to Create Table in DynamoDB - How Partition Key Works
+79xTeOtqsY8 AWS Tutorials - 145 - Amazon DynamoDB - What is sort key - what is the use of sort key
+Io1cNaIDHeo AWS Tutorials - 146 - Amazon DynamoDB - Where I am utilizing DynamoDB.  and what is Scan And Query
+r2Cun-8wv8g AWS Tutorials - 147 - Amazon DynamoDB - Read and Write Capacity Units DynamoDB - (In Hindi)
+1IJtgCn6jsg AWS Tutorials - 148 - Amazon DynamoDB - What is Local Secondary Index in DynamoDB - (In Hindi)
+8ThDeWyLnXo AWS Tutorials - 149 - Amazon DynamoDB - What is Global Secondary Index in DynamoDB - (In Hindi)
+iIhPlHTLNOQ AWS Tutorials - 150 - Amazon DynamoDB - Point in Time Recovery and Backup in DynamoDB - (In Hindi)
+U8-oHjxcukg AWS Tutorials - 151 - Amazon DynamoDB - DynamoDB Global Tables: Multi-Region Replication -(In Hindi)
+J4Qxmx8YKfo AWS Tutorials - 152 - Amazon DynamoDB - Export  DynamoDB Data to  S3 Bucket-(In Hindi)
+1ixaFRlRgIs AWS Tutorials - 153 - Amazon DynamoDB - Import Data in DynamoDB From  S3 Bucket - (In Hindi)
+f2Gt1tPK-OY AWS Tutorials - 154 - Amazon DynamoDB - How to Delete table from DynamoDb -  Cleanup - (In Hindi)
+N39IEMQu7nw AWS Tutorials - 155 - Amazon Simple Email Service - Where/How we can use it - (In Hindi)
+O8lzXZ_WlEc AWS Tutorials - 155 - Amazon Simple Email Service - How to Verify Domain in Amazon SES  - (In Hindi)
+67udYWJ7TAE AWS Tutorials - 156 - Email Service - How Emails End Up in Spam and How to Prevent It - (In Hindi)
+kSLzjy6nj7o AWS Tutorials - 157 - Email Service - How to Customize Your Mail-From Domain in AWS SES - (Hindi)
+-rJUfbas8bA AWS Tutorials - 158 - Simple Notification Service -  Send First Notification - (Hindi)
+gz0dphCEK2s AWS Tutorials - 159 - Simple Notification Service - Why should we use SNS - Configurations - (Hindi)
+e_JaORLCrZI AWS Tutorials - 160 - Simple Notification Service -  Send Mobile SMS Notification - (Hindi)
+zm_AD_Qy8Sc AWS Tutorials - 161 - Simple Notification Service - Http/Https Endpoint Notification - (In Hindi)
+DD21R8SB9vk AWS Tutorials - 161 - Cloud Watch Service -  what/why CloudWatch - Introduction (Hindi)
+KfrghyE7J3E AWS Tutorials - 157 - Email Service -  Got SES Production Access  - (Hindi)
+16lPXx3SO3g AWS Tutorials - 162 - Cloud Watch Service -  Namespace and Custom Dashboard - Introduction (Hindi)
+A63XO1D0qz4 AWS Tutorials - 163 - Cloud Watch Service -  Trigger Alert - Cloudwatch Alarm (Hindi)
+z4uArBgRKR0 AWS Tutorials - 164 - Cloud Watch Service -  How to Create Billing Alarm - Cloudwatch Alarm (Hindi)
+z4RL_qzSje8 AWS Tutorials - 165 - Cloud Watch Service -  Cloudwatch Composite Alarms - Cloudwatch Alarm (Hindi)
+tB_7cG7CAME AWS Tutorials - 166 - Cloud Watch Service -  Cloudwatch Agent Installation/Configure - Use (Hindi)
+9xT0rCq2gCs AWS Tutorials - 167 - AWS Cloud Watch Log - How to send application logs to Cloud watch - (InHindi)
+LN1quwfxDxw AWS Tutorials - 168 - AWS Cloud Watch Log Insights- Execute query on logs - (InHindi)
+JMCr0HB3faU AWS Tutorials - 169 - How to Setup Alert Based on Cloudwatch Log - (InHindi)
+ssT8_zDQFyg AWS Tutorials - 170 - CloudWatch Create Custom Metrics from CLI - AWS in Hindi
+ZJD-1gbqp7g AWS Tutorials - 171 - CloudWatch Cleanup - How to delete Resource from Cloudwatch - AWS in Hindi
+lKSCAVp_vNg AWS Tutorial 172 - AWS Lambda in Hindi | What is Serverless & How to Create Your First Function
+3tt2vuguZqU AWS Tutorial 173 - AWS Lambda Basics in Hindi | Passing Data to Functions with Event Object
+PzlK6B6dEGU AWS Tutorial 174 - How to Create and Test AWS Lambda Function URLs Using Postman - AWS Lambda
+GQ3lqMJMYpw AWS Tutorial 175 - Events in AWS lambda - how to pass values  - AWS Lambda ( in Hindi)
+VdVQEOfsnLk AWS Tutorial 176 - AWS Lambda Hot Start vs Cold Start Explained | Practical Tips to Reduce Bill/Time
+gTWsuYsJ3x8 AWS Tutorial 177 - AWS Lambda Hot Start vs Cold Start Explained - Part 2
+nS1CedAntRY AWS Tutorial 178 - AWS Lambda  -  General Configuration Settings - AWS in hindi
+JrfpFbYwmII AWS Tutorial 179 - AWS Lambda  -  Context Object in Function - AWS in hindi
+ynhyOGO4fUg AWS Tutorial 180 - AWS Lambda  -  Synchronous vs Asynchronous
+iMT9kWg5F5w AWS Tutorial 180 - AWS Lambda  -  Synchronous vs Asynchronous
+G5eWvxK6POk AWS Tutorial 181.2 - AWS Lambda  -  Dead Latter Queue in Lamda - How to use it
+69NwOxAJOEw AWS Tutorial 182 - AWS Lambda  - How to Trigger AWS Lambda on S3 Object Creation and Updates
+WdaSaNzFID4 AWS Tutorial 182 - AWS Lambda  - How to Trigger AWS Lambda From AWS Application Load Balancer
+UIQ-ZfXMEJE AWS Tutorial 194 - AWS Lambda - Easily Create Events and Test AWS Lambda Functions
+DK5U3HtE9qo AWS Tutorial 203 - AWS Lambda - Reserved Concurrency and Provisioned Concurrency
+ojuXSWJ3Fxc 186 - How to Write, Upload, and Use AWS Lambda Code from an S3 Bucket
+3hJ63n-MgY0 187 - How to use external libraries in Lambda Function - Install external library  without layers
+7r1r3M7ZCvo 188 - How to use layers in Lambda Function - Install external library in layers
+KDcm8ZTBhbA AWS Tutorial 189 - AWS Lambda  - Share your own library - Share your functions as Lambda Layers
+eeudeLjILR0 AWS Tutorial 190 - AWS Lambda  - What is Version in AWS Lambda - How to use Lambda Version
+BA3Lcghuq6I AWS Tutorial 191 - AWS Lambda  - What is Alias in AWS Lambda - How to use Alias in AWS Lambda
+ceUWawKFzz0 AWS Tutorial 192 - AWS Lambda  - Resource Policy and IAM Role in AWS Lambda
+oePH3k0NI-w AWS Tutorial 193 - AWS Lambda  - Lambda in VPC
+0Jfd-YfObV8 AWS Tutorial 195 - AWS Lambda  - Easily Create Events & Test AWS Lambda Functions
+V9c2_d2fED4 AWS Tutorial 196 - How to Establish a Connection Between AWS Lambda and RDS | Step-by-Step Guide
+SgJFIdPj2Gs AWS Tutorial 197 - What is  Reserved Concurrency and Provisioned Concurrency
+ZQeNdTAD-Ak AWS Lambda Destinations: What They Are & How They Enhance Your Serverless Architecture - 198
+E2hoC7Qf5T0 What's the REAL Purpose of API Gateway in AWS?
+G_OJz_lvoJ8 AWS API Gateway with HTTP Integrations - AWS Tutorials - AWS Beginner Guide
+SA8rm7tfY_0 AWS API Gateway Rest API Integrations with HTTP Server- AWS Tutorials - AWS Beginner Guide
+p19KqAQx_nY AWS API Gateway - Rest API - Resource and Method - AWS tutorials for beginenrs - Http Server
+9Rsf_APUaGc How to Integrate AWS API Gateway with AWS Lambda | Serverless API with AWS Lambda and API Gateway
+oShopYnhi-w Create Dummy APIs with API Gateway | API Gateway Mock Integration |  No Backend Needed
+SA7vHuxmqmo API Gateway + DynamoDB Direct Integration | No Lambda Needed |  Fast & Serverless
+QyvD3BxyPE4 Path & Query String Parameters in API Gateway | AWS Tutorial in Hindi - AWS Tutorials Beginners
+grEMR8zkGMU Headers in AWS API Gateway | AWS tutorials for beginners | AWS in Hindi | Amazon web service
+0RVRqbEFK4k How Add Validation on API Gateway Level Using request method - AWS API Gateway - AWS API Gateway
+ygBSnngJ9Kc Modify Requests Before Reach the Backend | Transform Request | AWS API Gateway | Request Integration
+B8sk2w5OVjw How to modify Request Body Before Reach Backend |  Integration Response | API Gateway | AWS Tutorial
+BDq0zOUMaV4 Integration Request in API Gateway with AWS Lambda | API Gateway | AWS Tutorials | AWS tutorials
+3NPCLPpN7Ts Your Lambda Works… But API Gateway Breaks It? Here's Why! | AWS API Gateway Method Response - Hindi
+hkjFy-8YAg0 Transform Lambda Responses in API Gateway (Without Changing Code!) | AWS API Gateway Tutorials
+EMgiQAg_hw8 How to Authenticate API Gateway Using IAM Roles | Step-by-Step AWS Guide
+fUnJC2fq5t4 How to Protect API Gateway Using API Keys | Full Setup & Demo in AWS
+8tfaqHTKeMQ AWS Custom Authorizer Tutorial in Hindi | Secure APIs with Lambda & JWT | Custom Authorizer
+8_SGd7jgJxs Pass User Info from Custom Authorizer to Lambda | Send Roles, IDs, Claims from Authorizer to Lambda
+GxizDg6DcNc Zero Downtime API Updates with AWS Lambda Alias & Versioning & Stage Variables
+JxLRpWL6xDk AWS API Gateway Canary Deployment | Zero Downtime Release Strategy (Must-Know for DevOps)
+Wn_v3qt6cuQ How to Map Custom Domain to AWS API Gateway | Step-by-Step Guide (2025)
+pxtKDujnZnU AWS Cognito | User Pool and App Setup – Say Goodbye to User Management Headaches! | AWS in Hindi
+gsojv1uH92s AWS Cognito Token Flow Explained | ID, Access, Refresh Tokens, JWT Decode & Implicit Grant | Cognito
+ZIWUhtPL4Po Customize AWS Cognito Hosted UI with CSS | Login & Signup UI Customization | AWS in Hindi By Gaurav
+ODf1pNkAp4A Move AWS Cognito Hosted UI to Custom Domain Using Route 53 | AWS Cognito In hindi | AWS By Gaurav
+X1enLKKT_qk AWS Cognito: User Profiles, Groups & Passwordless Login | AWS Cognito In Hindi By Gaurav | AWS Hindi
+4GS2jERqT8o Send Emails from Custom Domain using AWS Cognito + SES | Cognito, API Gateway & Lambda Explained
+_4RvUXy2qjI AWS ECS Tutorial for Beginners | Create Your First ECS Cluster | AWS Tutorials in Hindi By Gaurav
+Hu4jep_43Zk How to Create ECS Cluster with Managed Instance | Step-by-Step Guide
+ombHxh34QJo AWS ECS Tutorial for Beginners | Task Definition, Tasks vs Service Explained Step-by-Step
+zqQ3MaCjkQs How To Create a Service on ECS  Cluster with Managed Node  Instance | AWS Elastic Container Service

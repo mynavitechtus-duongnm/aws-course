@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AWS Tutorials - Khóa Học AWS Cho Người Mới Bắt Đầu</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css?v=2">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <svg class="logo-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M12 2L2 7L12 12L22 7L12 2Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        <path d="M2 17L12 22L22 17" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        <path d="M2 12L12 17L22 12" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                    <span>AWS Learning</span>
+                </div>
+                <nav class="nav">
+                    <a href="#modules" class="nav-link">Modules</a>
+                    <a href="#about" class="nav-link">Giới thiệu</a>
+                    <a href="https://www.youtube.com/playlist?list=PL6XT0grm_TfgtwtwUit305qS-HhDvb4du" target="_blank" class="btn btn-primary">Xem trên YouTube</a>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <div class="hero-badge">235 Bài học • 35+ Giờ</div>
+                <h1 class="hero-title">AWS Tutorials<br><span>Cho Người Mới Bắt Đầu</span></h1>
+                <p class="hero-description">
+                    Khóa học AWS hoàn chỉnh bằng tiếng Hindi với hướng dẫn từng bước, 
+                    bao gồm EC2, S3, Lambda, RDS, CloudFront, và nhiều dịch vụ AWS khác.
+                </p>
+                <div class="hero-stats">
+                    <div class="stat">
+                        <span class="stat-number">235</span>
+                        <span class="stat-label">Bài học</span>
+                    </div>
+                    <div class="stat">
+                        <span class="stat-number">35+</span>
+                        <span class="stat-label">Video</span>
+                    </div>
+                    <div class="stat">
+                        <span class="stat-number">15+</span>
+                        <span class="stat-label">Dịch vụ AWS</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Module List -->
+    <section id="modules" class="modules-section">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Nội dung khóa học</h2>
+                <p class="section-subtitle">Chọn một module để bắt đầu học</p>
+            </div>
+            <div class="modules-grid" id="modulesGrid">
+                <!-- Modules sẽ được render bằng JavaScript -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Lesson Modal -->
+    <div class="modal" id="lessonModal">
+        <div class="modal-overlay" onclick="closeModal()"></div>
+        <div class="modal-content">
+            <div class="modal-body" id="modalBody">
+                <!-- Nội dung bài học sẽ được render ở đây -->
+            </div>
+        </div>
+    </div>
+
+    <!-- About Section -->
+    <section id="about" class="about-section">
+        <div class="container">
+            <div class="about-content">
+                <h2 class="about-title">Về khóa học</h2>
+                <p class="about-text">
+                    Khóa học AWS Tutorials này được tạo bởi <strong>Gaurav Sharma</strong> trên YouTube. 
+                    Đây là nguồn tài liệu học AWS miễn phí bằng tiếng Hindi được đánh giá cao, 
+                    phù hợp cho người mới bắt đầu muốn học Amazon Web Services.
+                </p>
+                <div class="about-features">
+                    <div class="feature">
+                        <div class="feature-icon">
+                            <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M22 10V6C22 4.9 21.1 4 20 4H4C2.9 4 2 4.9 2 6V10" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                <path d="M22 10L12 16L2 10" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+                        </div>
+                        <h3>Học từ cơ bản</h3>
+                        <p>Phù hợp cho người mới bắt đầu với AWS</p>
+                    </div>
+                    <div class="feature">
+                        <div class="feature-icon">
+                            <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <polygon points="5 3 19 12 5 21 5 3" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+                        </div>
+                        <h3>Video chất lượng cao</h3>
+                        <p>Hướng dẫn từng bước chi tiết</p>
+                    </div>
+                    <div class="feature">
+                        <div class="feature-icon">
+                            <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z" stroke="currentColor" stroke-width="2"/>
+                                <path d="M12 6V12L16 14" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+                        </div>
+                        <h3>Thực hành ngay</h3>
+                        <p>Mỗi bài đều có ví dụ minh hoạ cụ thể</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <p class="footer-text">Khóa học AWS Tutorials by Gaurav Sharma</p>
+                <a href="https://www.youtube.com/playlist?list=PL6XT0grm_TfgtwtwUit305qS-HhDvb4du" target="_blank" class="footer-link">Xem trên YouTube</a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="data.js"></script>
+    <script>
+        document.write('<script src="app.js?v=' + Date.now() + '"><\/script>');
+    </script>
+</body>
+</html>
