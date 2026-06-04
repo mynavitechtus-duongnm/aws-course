@@ -99,8 +99,8 @@ function createYouTubePlayer(videoId, containerId) {
         return;
     }
     
-    // Use iframe embed with captions
-    const embedUrl = `https://www.youtube.com/embed/${videoId}?rel=0&cc_load_policy=1&cc_lang_pref=vi&hl=vi&playsinline=1`;
+    // Use iframe embed with captions - Vietnamese subtitles if available
+    const embedUrl = `https://www.youtube.com/embed/${videoId}?rel=0&cc_load_policy=1&cc_lang_pref=vi&hl=vi&playsinline=1&origin=https://mynavitechtus-duongnm.github.io`;
     
     container.innerHTML = `
         <iframe 
