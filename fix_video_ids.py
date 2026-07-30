@@ -11,6 +11,7 @@ PLAYLIST_PATH = BASE_DIR / "youtube_playlist.txt"
 lines = PLAYLIST_PATH.read_text(encoding="utf-8").splitlines()
 playlist = []
 for line in lines:
+    
     parts = line.split(" ", 1)
     if len(parts) == 2 and re.match(r"^[A-Za-z0-9_-]{11}$", parts[0]):
         vid_id, title = parts[0], parts[1].strip()
